@@ -8,12 +8,28 @@ Also keep in mind there is no upper bound on the time you spend on this project,
 
 Feel free to use any language, component library, framework, or setup you would like. For reference, we use Nextjs, NodeJS Typescript, GraphQL, and Postgres. You are not required to use that stack. Me personally, I love Go and Vue. We just want to know you can be flexible and learn!
 
+## Getting started
+
+- Please be conscious of your commit messages. Make them meaningful.
+- We will judge this not only by your code quality but your technical stack decisions.
+- Include a good README and explanation. Even if you couldnt finish a complete feature include what you would do and why in a README. Its not always clear in code why you chose something.
+
 ## Frontend
 
-Please build a UI that properly presents the given design. (hint try to be mobile first!).
+In this exercise we want to see your ability to build scalable UI components given a dataset, attention to detail, and working with "designer".
 
-This exercise we want to see your ability to build scalable UI components given a dataset.
+Please build a UI that properly represents the given design.
+
+### Hints:
+
+- Try to be mobile first
+- Build this like its a production application (to a degree). Modular UI Components.
+- Unit tests are a bonus (not a must)
 
 ## API
 
-You will find a json file called `data.json`. This is the data that you should use to build your simple API Endpoint. The endpoint just has to return the set data. (hint you can alter this data but each item in the list represents a row in a DB table.)
+You will find a json file called `data.json`. This is the data that you should use to build your simple API Endpoint. The endpoint just has to return the set data.
+
+### Hints:
+
+-  You can alter this data on request but each item in the list represents a row in a DB table.
