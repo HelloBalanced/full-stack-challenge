@@ -2,7 +2,7 @@
 
 Hello! Welcome to the Balanced take-home coding challenge.
 
-This full-stack exercise involves building a web application that connects to a simple API that you will make. We do not expect you spend an entire weekend on this exercise. Do this at your own pace. If you decide to break it up over multiple coding sessions, that's fine too. We figure about 4 hours of work.
+This full-stack exercise will involve building a simple live schedule application. We do not expect you spend an entire weekend on this exercise. Do this at your own pace. If you decide to break it up over multiple coding sessions, that's fine too. We figure about 4 hours of work.
 
 Also, keep in mind there is no upper bound on the time you spend on this project, so if you'd like to use this as an opportunity to learn a new library or technology or make the project better in general, you should feel free to do so!
 
@@ -26,13 +26,7 @@ Build a web application that will display the information from `data.json.`
 ## Notes:
 
 - Treat this like a production-grade repository.
-- Include a good README and explanation. Even if you couldn't finish a full feature, include what you would do and why in a README. It is not always evident in code why you chose something.
-
-## Bonus:
-
-- Testing (we use cypress for E2E testing and Jest for Unit tests)
-- Validation on post request
-- Anything else you can think of!
+- Include proper and relevant documentation to better help us understand your solution.
 
 ## Submitting your work!
 
