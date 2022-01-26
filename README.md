@@ -10,7 +10,7 @@ Feel free to use any language, component library, framework, or set up you would
 
 ## Requirements
 
-Build a web application that will display the information from `data.json.`
+Build a web application that will display the information from `classes.json.`
 
 1. Build a web application
 
@@ -20,8 +20,8 @@ Build a web application that will display the information from `data.json.`
 
 2. API endpoints
 
-- Create an API Endpoint that will list all of the given data from `data.json.`
-- Create an API Endpoint that will allow someone to insert a new schedule into the given `data.json` dataset.
+- Create an API Endpoint that will list all of the given data from `classes.json.`
+- Create an API Endpoint that will allow someone to insert a new schedule into the given `classes.json` dataset.
 
 ## Notes:
 
@@ -34,6 +34,6 @@ Please commit all of your work to the main branch❗
 
 When you have finished the exercise, please create a bundle of your work by running the bundle script (bundle.sh) in the directory's root.
 
-The bundle script will create a bundle file called balance-full-stack-challenge.bundle based on your local main branch. Send the file to us via email, or if you received a submission link from your hiring manager, please upload it there.
+The bundle script will create a bundle file called `balance-full-stack-challenge.bundle` based on your local main branch. Send the file to us via email, or if you received a submission link from your hiring manager, please upload it there.
 
 Thank you and good luck!
