@@ -6,7 +6,7 @@ This full-stack exercise will involve building a simple live schedule applicatio
 
 Also, keep in mind there is no upper bound on the time you spend on this project, so if you'd like to use this as an opportunity to learn a new library or technology or make the project better in general, you should feel free to do so!
 
-Feel free to use any language, component library, framework, or set up you would like. You are not required to use our current tech stack (Nextjs, NodeJS Typescript, GraphQL, and Postgres). As a reference, we love Go and Vue. We want to know you can be flexible, learn, and use the right tool for the job!
+Feel free to use any language, component library, framework, or set up you would like. You are not required to use our current tech stack (Nextjs, NodeJS Typescript, GraphQL, and Postgres). We want to know you can be flexible, learn, and use the right tool for the job!
 
 ## Requirements
 
